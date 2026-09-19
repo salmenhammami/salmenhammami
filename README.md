@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Salmen
 
-<!--
-**salmenhammami/salmenhammami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student at ISET Sfax, in Tunisia, graduating in 2027. I like
+building things that work end to end: the database, the login screen, and the container
+it all ships in.
 
-Here are some ideas to get you started:
+## What I'm looking for
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A 3–4 month end-of-studies internship abroad, starting **February 2027**. I'm open to
+Europe, Asia and anywhere else it makes sense. My university signs the internship
+agreement. I work in English and French (B2), and Arabic is my first language.
+
+## Things I've built
+
+- [**NexusCRM**](https://github.com/salmenhammami/NexusCRM): a CRM with a two-step
+  email-code login, JWT and roles. Django REST, React, MySQL, Docker.
+- [**KeyTask**](https://github.com/salmenhammami/KeyTask): a task manager where Keycloak
+  handles single sign-on. Spring Boot, Angular, MongoDB.
+- [**BloodConnect**](https://github.com/salmenhammami/BloodConnect): matches blood donors
+  with urgent hospital requests and enforces the waiting periods between donations. Django.
+- [**DevOps CI/CD Lab**](https://github.com/salmenhammami/Devops-cicd-lab): Jenkins,
+  SonarQube, Docker, Kubernetes, Terraform and Prometheus around a tiny Node service.
+- [**MedWell**](https://github.com/salmenhammami/MedWell): a clinic back office with a
+  hand-written PHP API and no framework.
+- [**Python mini projects**](https://github.com/salmenhammami/Python-mini-projects):
+  YOLOv8 vehicle counting, a minimax tic-tac-toe and a web scraper.
+
+## What I work with
+
+- **Backend:** Java (Spring Boot), Python (Django), PHP, C# (ASP.NET Core)
+- **Frontend:** React, Angular, TypeScript
+- **Data:** MySQL, MongoDB, Oracle
+- **DevOps:** Docker, Kubernetes, Jenkins, Terraform, Linux
+- **Also:** computer vision with OpenCV and YOLO, and a bit of Flutter
+
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/salmenhammami/) · [Email](mailto:hammamisalmen21@gmail.com)
