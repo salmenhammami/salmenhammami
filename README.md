@@ -6,7 +6,7 @@ it all ships in.
 
 ## What I'm looking for
 
-A 3–4 month end-of-studies internship abroad, starting **February 2027**. I'm open to
+An international end-of-studies internship from **February to May 2027**. I'm open to
 Europe, Asia and anywhere else it makes sense. My university signs the internship
 agreement. I work in English and French (B2), and Arabic is my first language.
 
